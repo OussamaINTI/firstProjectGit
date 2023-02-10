@@ -2,6 +2,7 @@ package com.inti;
 
 public class Role {
 	private int id;
+
 	private String libelllee;
 
 	public Role() {
